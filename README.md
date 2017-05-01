@@ -1,4 +1,4 @@
-# Pamuk
+# Robotarm
 Robotarm - Local and Remote controlled 
 
 2x Robotarms. One controlled with servos and other one with DC motors.
